@@ -87,7 +87,7 @@ color: #fff;
   padding: 10px 20px;
 }
 .justify-content-evently{
-  justify-content: space-evently;
+  justify-content: space-evenly;
 }
 .btn-up{
   position: fixed;
