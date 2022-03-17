@@ -87,7 +87,7 @@ color: #fff;
   padding: 10px 20px;
 }
 .justify-content-evently{
-  justify-content: space-evently;
+  justify-content: space-evenly;
 }
 .btn-up{
   position: fixed;
@@ -276,6 +276,10 @@ section#about-segway ol{
   font-weight: bold;
   margin-left: 25px;
 }
+
+/* start */
+
+
 section#catalog{
   padding-top: 100px;
 
@@ -344,7 +348,7 @@ section#catalog .catalog-container .c-card .type span{
   border-radius: 5px;
   background: #3d67b0;
   color: #fff;
-  padding: 1 px 7px;
+  padding: 1px 7px;
   margin: 0 15px;
 }
 section#catalog .catalog-container .c-card .price-container{
@@ -382,3 +386,13 @@ section#useful-info .content .item .title{
   color: #3d67b0;
   margin: 15px 0;
 }
+
+
+/*17.03 */
+section#sub{
+  height: 100vh;
+  margin-bottom: 15vh;
+  background: url("../img/sub-bg.png") center no-repeat;
+  background-size: 100% 100%;
+}
+
