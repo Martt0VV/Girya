@@ -299,14 +299,14 @@ section#catalog input[type="radio"]{
   opacity: 0;
 }
 section#catalog #giroscooters:checked ~ .categories #giroscooters-tab, 
-section#catalog #electric_scooter:checked ~ .categories #electric_scooters-tab,
+section#catalog #electric_scooters:checked ~ .categories #electric_scooters-tab,
 section#catalog #segways:checked ~ .categories #segways-tab
 {
   color: #fff;
   background: #3d67b0;
 }
 section#catalog #giroscooters:checked ~ .panels #giroscooters-container, 
-section#catalog #electric_scooter:checked ~ .panels #electric_scooters-container,
+section#catalog #electric_scooters:checked ~ .panels #electric_scooters-container,
 section#catalog #segways:checked ~ .panels #segways-container
 {
   display: flex;
